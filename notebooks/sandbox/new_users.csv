@@ -1,1 +1,2 @@
 username,displayName,email,password,user_roles
+user3,User 3,user3@ibm.com,passw0rd,["Data Scientist"]
